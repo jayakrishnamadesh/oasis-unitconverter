@@ -63,7 +63,7 @@ class _UnitConverterMaterialPageState
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
         elevation: 0,
-        title: const Text('CURRENCY CONVERTER'),
+        title: const Text('UNIT CONVERTER'),
         centerTitle: true,
       ),
       body: Center(
